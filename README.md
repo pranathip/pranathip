@@ -1,1 +1,1 @@
-currently playing with shapes and colors @ github 😎
+eng + design + product @ [graphite](https://graphite.dev)
