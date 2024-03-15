@@ -1,1 +1,1 @@
-eng + design + product @ [graphite](https://graphite.dev)
+design @ vercel
